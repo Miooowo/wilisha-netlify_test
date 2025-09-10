@@ -1,16 +1,16 @@
 # Wilisha
-**Title**: Child of Bright Eggplant  
+**Title**: Child of Brightshade
 <div style="display:flex; gap:30px; text-align:center;">
   <div>
-    <img src="https://huiji-thumb.huijistatic.com/dontstarve/uploads/thumb/6/6f/Health_Meter.png/60px-Health_Meter.png" alt="Health">
+    <img src="../media/60px-Health_Meter.png" alt="Health">
     <div><big><big>150</big></big></div>
   </div>
   <div>
-    <img src="https://huiji-thumb.huijistatic.com/dontstarve/uploads/thumb/4/48/Hunger_Meter.png/60px-Hunger_Meter.png" alt="Hunger">
+    <img src="../media/60px-Hunger_Meter.png" alt="Hunger">
     <div><big><big>150</big></big></div>
   </div>
   <div>
-    <img src="https://huiji-thumb.huijistatic.com/dontstarve/uploads/thumb/2/2f/Sanity_Meter.png/60px-Sanity_Meter.png" alt="Sanity">
+    <img src="../media/60px-Sanity_Meter.png" alt="Sanity">
     <div><big><big>250</big></big></div>
   </div>
 </div>

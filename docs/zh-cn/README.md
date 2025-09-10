@@ -2,15 +2,15 @@
 **称号：** 亮茄之子  
 <div style="display:flex; gap:30px; text-align:center;">
   <div>
-    <img src="https://huiji-thumb.huijistatic.com/dontstarve/uploads/thumb/6/6f/Health_Meter.png/60px-Health_Meter.png" alt="生命值">
+    <img src="../media/60px-Health_Meter.png" alt="生命值">
     <div><big><big>150</big></big></div>
   </div>
   <div>
-    <img src="https://huiji-thumb.huijistatic.com/dontstarve/uploads/thumb/4/48/Hunger_Meter.png/60px-Hunger_Meter.png" alt="饥饿值">
+    <img src="../media/60px-Hunger_Meter.png" alt="饥饿值">
     <div><big><big>150</big></big></div>
   </div>
   <div>
-    <img src="https://huiji-thumb.huijistatic.com/dontstarve/uploads/thumb/2/2f/Sanity_Meter.png/60px-Sanity_Meter.png" alt="理智值">
+    <img src="../media/60px-Sanity_Meter.png" alt="理智值">
     <div><big><big>250</big></big></div>
   </div>
 </div>
