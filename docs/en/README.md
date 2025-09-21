@@ -56,10 +56,7 @@ Also can craft Wormwood’s basic recipes.
 - Can plant Deadly Brightshade.
 
 ### Born to Fight
-- Attacks restore HP + Sanity:  
-  $$
-  \frac{\text{Weapon Dmg} \times \text{Mob Dmg}}{4 \times \text{Mob Max HP}}
-  $$
+- Attacks restore HP + Sanity:  <math xmlns="http://www.w3.org/1998/Math/MathML"> <mfrac> <mrow> <mi>Physical Damage</mi> <mo>&#xD7;</mo> <mi>Biological Damage</mi> </mrow> <mrow> <mn>4</mn> <mo>&#xD7;</mo> <mi>Total Biological HP</mi> </mrow> </mfrac> </math>
 - Min 0.33, Max 2.  
 - Example: Spear vs Spider Warrior = 0.53 HP/Sanity per hit.  
 - Values stored, applied when ≥1, max 2; cleared after 5s without attack.  
