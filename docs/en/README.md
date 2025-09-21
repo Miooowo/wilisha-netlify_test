@@ -53,7 +53,7 @@ Also can craft Wormwood’s basic recipes.
 - Using Brightshade weapons: +15% dmg, -15% durability cost.  
 - Using Brightshade Sword/Crusher/Spade: 50% chance to summon Brightshade Tentacle.  
 - Wearing Brightshade armor: attackers are bound for 6s.  
-- Can mark plants with Brightshade Husk; harvest may summon parasitic shade.  
+- Can plant Deadly Brightshade.
 
 ### Born to Fight
 - Attacks restore HP + Sanity:  
@@ -65,8 +65,8 @@ Also can craft Wormwood’s basic recipes.
 - Values stored, applied when ≥1, max 2; cleared after 5s without attack.  
 
 ### Plants
-- **Plant members:** self +10 sanity, others (20 range) +0~2 sanity.  
-- **Kill Brightshade:** If kill by Wilisha, -15 Sanity; if kill by someone else (within 20 range), 0~2 Sanity.
+<!-- **Plant members:** self +10 sanity, others (20 range) +0~2 sanity.  -->
+- **Kill Brightshade:** If kill by Wilisha, -15 Sanity.
 - **Photosynthesis:** In daylight or natural light, restores 1 HP every 5s.  
 - **Extra:**  
   - Wetness no effect.  
